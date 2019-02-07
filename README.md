@@ -1,5 +1,5 @@
 # Web crawler
-## Check 'Python Intern Task - Web Crawler.pdf' for task description.
+## Check `Task description.md` for task description.
 
 ## Modules and packages
 
