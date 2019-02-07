@@ -1,14 +1,14 @@
-# Web-crawler
+# Web crawler
 ## Check 'Python Intern Task - Web Crawler.pdf' for task description.
 
 ## Modules and packages
 
-Requests:
+#### Requests:
 ```
 pip install requests
 ```
 
-BeautifulSoup:
+#### BeautifulSoup:
 ```
 pip install bs4
 ```
