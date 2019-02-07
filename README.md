@@ -1,5 +1,5 @@
 # Web-crawler
-## Check `Task description.md` for task description.
+## Check `Task description.md` for more details about the task for this script
 
 ## Modules and packages
 
