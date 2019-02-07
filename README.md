@@ -1,4 +1,4 @@
-# Web crawler
+# Web-crawler
 ## Check `Task description.md` for task description.
 
 ## Modules and packages
