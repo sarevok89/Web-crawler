@@ -1,4 +1,4 @@
-## Python Intern Task - Web Crawler
+# Python Intern Task - Web Crawler
 
 Clarence got lost while surfing the internet. Help him find his way out by creating a map of
 the domain he is on.
