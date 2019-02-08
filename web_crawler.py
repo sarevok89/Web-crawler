@@ -88,4 +88,4 @@ def site_map(base_url):
 
 if __name__ == '__main__':
     base_url = input("Please enter a URL (including 'http://') to recieve a site mapping: ")
-    site_map(base_url)
+    print(site_map(base_url))
