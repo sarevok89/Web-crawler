@@ -20,4 +20,15 @@ from requests.exceptions import MissingSchema, InvalidSchema
 import requests
 import sys
 ```
-### Other things
+### Running script
+```
+site_map(URL)
+```
+This function will return You a dictionary object containing:
+* key: URL
+* value: dictionary with:
+
+  * site title (HTML `<title>` tag)
+  * links - set of all target URLs within the domain on the page but without anchor links
+
+### Thanks!
