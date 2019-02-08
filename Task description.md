@@ -24,6 +24,8 @@ Unzip the `example.zip` file into some directory and enter it.
 Run the following command `python3 -m http.server`. You are serving a website now!
 Check if everything is okay by visiting the `http://0.0.0.0:8000` URL.
 
+#### In case You encountered problems reaching an example site at `0.0.0.0:8000`, try editting it's `html` files and replacing `0.0.0.0:8000` with `127.0.0.1:8000`.
+
 #### If everything works you can run your program with following parameter and verify if it gives the correct answer.
 
 ```
