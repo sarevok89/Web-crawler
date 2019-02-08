@@ -11,9 +11,10 @@ consist of:
 
 * key: URL
 * value: dictionary with:
-** site title (HTML `<title>` tag)
 
-** links - set of all target URLs within the domain on the page but without anchor links
+  * site title (HTML `<title>` tag)
+
+  * links - set of all target URLs within the domain on the page but without anchor links
 
 ## Example:
 
